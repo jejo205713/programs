@@ -1,0 +1,678 @@
+1. HTML Basics Tags
+CODING
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CPU</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<h1>
+CPU
+</h1>
+<h2>
+<u>
+<i>
+<b>CPU</b> stands for Central Processing Unit.
+</i>
+</u> <br>
+It is the process of a <u>computer</u> system that carries <br>
+out the instructions of a <u>computer</u> program. <br>
+It carries out each instruction of the program in sequence, <br>
+to perform the basic arithmetical, logical, and input/output operations of
+the system.
+</h2>
+</body>
+</html>OUTPUT
+CPU
+CPU stands for Central Processing Unit.
+It is the portion of a computer system that carries out the instruction of
+a computer program.
+It carries out each instruction of the program in sequence, to perform the basic
+arithmetical, logical, and input/output operations of the systemSRI KRISHNA COLLEGE OF TECHNOLOGY
+(AN AUTONOMOUS INSTITUTION)
+KOVAIPUDUR, COIMBATORE 641042
+EXPERIMENT NO.
+TITLE OF EXPERIMENT:
+:
+DATE OF EXPERIMENT:
+EVALUATION BY FACULTY MEMBER (BASED ON RUBRICS)
+CRITERIA
+MAXIMUM MARKS
+Aim, Algorithm, Flowchart (optional)20
+Coding and Commands30
+Compilation and Debugging30
+Execution and Result10
+Documentation -Explanation of the
+experiment/ Viva10
+TOTAL
+MARKS100
+MARKS SCORED BY
+STUDENT
+
+
+
+
+
+
+
+2.Contents and links
+CODING
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Image</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<h1>
+Albert Einstein
+</h1>
+<p>He was a German-born theoretical physicist, widely acknowledged to be
+one of the greatest and most influential physicists of all time. Einstein is best
+known for developing the theory of relativity, but he also made important
+contributions to the development of the theory of quantum mechanics.</p>
+<img src="https://s3.amazonaws.com/exams-media-content/ba1768e5-6d4b-
+4615-9364-15e23980c951/questions/3758825807-1" alt="Einstein" >
+</body>
+</html>OUTPUT
+Albert Einstein
+He was a German-born theoretical physicist, widely acknowledged to be one of
+the greatest and most influential physicists of all time. Einstein is best known
+for developing the theory of relativity, but he also made important contributions
+to the development of the theory of quantum mechanicsSRI KRISHNA COLLEGE OF TECHNOLOGY
+(AN AUTONOMOUS INSTITUTION)
+KOVAIPUDUR, COIMBATORE 641042
+EXPERIMENT NO.
+TITLE OF EXPERIMENT:
+:
+DATE OF EXPERIMENT:
+EVALUATION BY FACULTY MEMBER (BASED ON RUBRICS)
+CRITERIA
+MAXIMUM MARKS
+Aim, Algorithm, Flowchart (optional)20
+Coding and Commands30
+Compilation and Debugging30
+Execution and Result10
+Documentation -Explanation of the
+experiment/ Viva10
+TOTAL
+MARKS100
+MARKS SCORED BY
+
+
+
+
+
+
+
+
+
+
+STUDENT3. Lists and tables
+CODING
+<!DOCTYPE html>
+<html>
+<head>
+<title>Table</title>
+</head>
+<body>
+<table>
+<tr>
+<th>First</th>
+<th>Second</th>
+<th>Third</th>
+<th>Fourth</th>
+<th>Fith</th>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+</tr>
+<tr>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+</tr>
+<tr>
+<td>16</td>
+<td>17</td>
+<td>18</td><td>19</td>
+<td>20</td>
+</tr>
+</table>
+</body>
+</html>
+OUTPUT:
+First Second Third Fourth Fith
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11 12
+13
+14
+15
+16 17
+18
+19
+20
+
+
+
+
+
+
+
+3.b. Check box
+<!DOCTYPE html>d>
+<title>Forms</title>
+</head>
+<body>
+<h2>Choose vehicles</h2>
+<form>
+<input type="checkbox" id="bike" name="bike"> I have a bike<br>
+<input type="checkbox" id="car" name="car"> I have a car<br>
+<input type="checkbox" id="boat" name="boat"> I have a
+boat<br><br>
+<input type="submit" value="Submit">
+</form>
+</body>
+</html>
+OUTPUTSRI KRISHNA COLLEGE OF TECHNOLOGY
+(AN AUTONOMOUS INSTITUTION)
+KOVAIPUDUR, COIMBATORE 641042
+EXPERIMENT NO.
+TITLE OF EXPERIMENT:
+:
+DATE OF EXPERIMENT:
+EVALUATION BY FACULTY MEMBER (BASED ON RUBRICS)
+CRITERIA
+MAXIMUM MARKS
+Aim, Algorithm, Flowchart (optional)20
+Coding and Commands30
+Compilation and Debugging30
+Execution and Result10
+Documentation -Explanation of the
+experiment/ Viva10
+TOTAL
+MARKS100
+MARKS SCORED BY
+
+
+
+
+
+
+
+
+
+
+
+
+
+STUDENT4. Registration form
+CODING
+<!DOCTYPE html>
+<html>
+<head>
+<title>Forms</title>
+</head>
+<body>
+<h2>HTML Forms</h2>
+<form>
+<label>First name:</label><br>
+<input type="text" value="John"><br>
+<label>Last name:</label><br>
+<input type="text" value="Doe"><br><br>
+<input type="submit" vale="Submit">
+</form>
+</body>
+</html>
+OUTPUTSRI KRISHNA COLLEGE OF TECHNOLOGY
+(AN AUTONOMOUS INSTITUTION)
+KOVAIPUDUR, COIMBATORE 641042
+EXPERIMENT NO.
+TITLE OF EXPERIMENT:
+:
+DATE OF EXPERIMENT:
+EVALUATION BY FACULTY MEMBER (BASED ON RUBRICS)
+CRITERIA
+MAXIMUM MARKS
+Aim, Algorithm, Flowchart (optional)20
+Coding and Commands30
+Compilation and Debugging30
+Execution and Result10
+Documentation -Explanation of the
+experiment/ Viva10
+TOTAL
+MARKS100
+MARKS SCORED BY
+
+
+
+
+
+
+
+
+
+STUDENT5. HTML form and validation using HTML5 features
+CODING
+<!DOCTYPE html>
+<html>
+<head>
+<title>Link</title>
+</head>
+<body>
+<ul>
+<li><a href="#birds">Birds Section</a></li>
+<li><a href="#ducks">Ducks Section</a></li>
+</ul>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p id="birds">This is the article about birds</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p id="ducks">This is the article about ducks</p>
+</body>
+</html>OUTPUTSRI KRISHNA COLLEGE OF TECHNOLOGY
+(AN AUTONOMOUS INSTITUTION)
+KOVAIPUDUR, COIMBATORE 641042
+EXPERIMENT NO.
+TITLE OF EXPERIMENT:
+:
+DATE OF EXPERIMENT:
+EVALUATION BY FACULTY MEMBER (BASED ON RUBRICS)
+CRITERIA
+MAXIMUM MARKS
+Aim, Algorithm, Flowchart (optional)20
+Coding and Commands30
+Compilation and Debugging30
+Execution and Result10
+Documentation -Explanation of the
+experiment/ Viva10
+TOTAL
+MARKS100
+MARKS SCORED BY
+
+
+
+
+
+STUDENT6. Designing a html page using html and css , friends book
+CODING
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Friends Book</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="page">
+<div class="card">
+<img src="" alt="img" srcset="" id="backgroundImage">
+<h1 id="TitleName">FRIENDS BOOK</h1>
+<form>
+<div class="name">
+<label for="name" id="yourName">Your Name: </label>
+<input type="text" name="" id="textBox">
+</div>
+<h4 id="field1">1. A message for me!</h4>
+<input type="text" name="" id="textBox1">
+<h4>2. A nick name for me!</h4>
+<input type="text" name="" id="textBox2">
+<h4>3. Have you ever lied to me? </h4>
+<span>
+<input type="radio" name="yes" id="yes">
+<label for="yes">Yes</label>
+<input type="radio" name="maybe" id="yesMayBe">
+<label for="maybe">Maybe</label>
+</span>
+<h4>4. How do you feel when you talk to me?? </h4>
+<span>
+<input type="radio" name="happy" id="happy"><label for="happy">Happy</label>
+<input type="radio" name="irritated" id="irritated">
+<label for="irritated">Irritated</label>
+</span>
+<h4>5. Do you like to go on a roadtrip with me? </h4>
+<span>
+<input type="radio" name="yes" id="ryes">
+<label for="yes">Yes</label>
+<input type="radio" name="no" id="rno">
+<label for="no">No</label>
+</span>
+<h4>6. Best colour that suits me? </h4>
+<span>
+<input type="checkbox" name="red" id="bestColour">
+<label for="red">Red</label>
+<input type="checkbox" name="black" id="black">
+<label for="black">Black</label>
+<input type="checkbox" name="white" id="white">
+<label for="white">White</label>
+<input type="checkbox" name="blue" id="blue">
+<label for="blue">Blue</label>
+<input type="checkbox" name="green" id="green">
+<label for="green">Green</label>
+</span>
+<h4>7. The best moment in out Friendship?</h4>
+<input type="text" name="" id="moment">
+</form>
+</div>
+</div>
+</body>
+</html>
+Style.css:
+*{
+padding: 0px;
+margin: 0px;
+color:#fff;
+}.page {
+height: 100vh;
+width: 100vw;
+background-color: rgb(0, 106, 9);
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.card{
+height: 95vh;
+width: 80vw;
+background-color: rgba(11, 186, 255, 0.125);
+border-radius:15px;
+display: flex;
+justify-content: center;
+align-items: center;
+gap:1rem;
+flex-direction:column
+}
+img{
+display: none;
+}
+form{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 1rem;
+}
+#textBox{
+color:#000
+}
+#textBox1,#textBox2,#moment{
+height: 6rem;
+width: 14rem;
+border: none;background-color: rgba(0, 255, 255, 0.393);
+}
+input {
+outline: none;
+}
+OUTPUTSRI KRISHNA COLLEGE OF TECHNOLOGY
+(AN AUTONOMOUS INSTITUTION)
+KOVAIPUDUR, COIMBATORE 641042
+EXPERIMENT NO.
+TITLE OF EXPERIMENT:
+:
+DATE OF EXPERIMENT:
+EVALUATION BY FACULTY MEMBER (BASED ON RUBRICS)
+CRITERIA
+MAXIMUM MARKS
+Aim, Algorithm, Flowchart (optional)20
+Coding and Commands30
+Compilation and Debugging30
+Execution and Result10
+Documentation -Explanation of the
+experiment/ Viva10
+TOTAL
+MARKS100
+MARKS SCORED BY
+
+
+
+
+
+
+
+
+
+STUDENT7. To Apply style specification in HTML page
+CODING
+HTML Code:
+<!DOCTYPE html>
+<html>
+<head>
+<title>Document</title>
+<link rel="stylesheet" href="./veg.css">
+</head>
+<body>
+<h1 id="titleName">VEGETABLE SALAD</h1>
+<img src="C:\Users\OneDrive\Pictures\Saved Pictures\veg salad.jpg"
+id="vegetableSaladImage">
+<h2 id="benefits">Benefits of Vegetable Salad</h2>
+<p id="benefitsParagraph">Aside from their natural good taste and great
+crunchy texture alongside wonderful colors and fragrances, eating a large
+serving of fresh, raw vegetables each day can have significant health
+benefits</p>
+<h2 id="steps">Steps to make Vegetable Salad</h2>
+<ul id="stepForVegetableSalad">
+<li>Take a large and clear glass bowl</li>
+<li>Try adding blanched, lightly steamed or roasted veggies like broccoli,
+french beans, corn, cauliflower, baby corn.</li>
+<li>Add lentils, beans or chickpeas or bean sprouts for more protein.</li>
+<li>Add marinated veggies like artichoke hearts for tang, or other veggies
+like radish for some pungency.</li>
+<li>Swap in your own favorite combination of dried fruits, nuts and
+seeds.</li>
+<li>Use fresh coriander or chives instead of parsley.</li>
+<hr>
+</ul>
+<footer id="footerText">This easy vegetable salad is packed with a
+variety of summer produce with all the textures and colors one could ever
+want</footer>
+</body>
+</html>CSS Code:
+*{
+background-color: darkseagreen;
+}
+#titleName{
+font-family:unset;
+color:indigo;
+}
+OUTPUTSRI KRISHNA COLLEGE OF TECHNOLOGY
+(AN AUTONOMOUS INSTITUTION)
+KOVAIPUDUR, COIMBATORE 641042
+EXPERIMENT NO.
+TITLE OF EXPERIMENT:
+:
+DATE OF EXPERIMENT:
+EVALUATION BY FACULTY MEMBER (BASED ON RUBRICS)
+CRITERIA
+MAXIMUM MARKS
+Aim, Algorithm, Flowchart (optional)20
+Coding and Commands30
+Compilation and Debugging30
+Execution and Result10
+Documentation -Explanation of the
+experiment/ Viva10
+TOTAL
+MARKS100
+MARKS SCORED BY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STUDENT8. A. Program to check whether a no is even or odd with javascript
+CODING
+//check if the number is even
+if(number % 2 == 0) {
+console.log("The number is even.");
+}
+// if the number is odd
+else {
+console.log("The number is odd.");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+OUTPUT8. B. Program to check whether a no is armstrong number or not using
+html and javascript
+CODING
+<!DOCTYPE html>
+<html>
+<head>
+<title>Armstrong Number Checker</title>
+<script>
+function checkArmstrong() {
+var number = parseInt(document.getElementById("number").value);
+var originalNumber = number;
+var result = 0;
+var digits = number.toString().length;
+while (originalNumber > 0) {
+var remainder = originalNumber % 10;
+result += Math.pow(remainder, digits);
+originalNumber = Math.floor(originalNumber / 10);
+}
+if (result === number) {
+document.getElementById("output").innerHTML = number + " is an
+Armstrong number.";
+} else {
+document.getElementById("output").innerHTML = number + " is not an
+Armstrong number.";
+}
+}
+</script>
+</head>
+<body>
+<h2>Armstrong Number Checker</h2>
+<label for="number">Enter a number:</label>
+<input type="number" id="number">
+<button onclick="checkArmstrong()">Check</button>
+<p id="output"></p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+OUTPUT:8. C. Grading program using javascrip (if&else condition)
+CODING
+function calculateGrade(marks) {
+if (marks > 100) {
+return "Invalid Input";
+} else if (marks >= 90) {
+return "A";
+} else if (marks >= 80) {
+return "B";
+} else if (marks >= 70) {
+return "C";
+} else if (marks >= 60) {
+return "D";
+} else if (marks >= 50) {
+return "E";
+} else {
+return "F";
+}
+}
+var marks = parseInt(prompt("Enter the marks:"));
+var grade = calculateGrade(marks);
+console.log("Grade: " + grade);
+OUTPUT:
+
+
+
+
+
+
+
+
+8d. Program to find the position of substring in the main string using bash
+(*bash-program):
+Coding
+read a
+read b
+c=$(a%%$b*)
+d=${#c}
+if[$d –eq ${#a}]
+then
+echo 0
+else
+echo $((d+1))
+fi
+#echo “${d}”
+OUTPUT:
